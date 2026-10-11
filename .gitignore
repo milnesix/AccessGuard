@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+**/.vs/
+ipch/
+
+# Build directories
+x64/
+**/x64/
+Debug/
+Release/
+**/Debug/
+**/Release/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+
+# Compiler / linker files
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
+*.tlog
+*.log
+
+# Built programs / libraries
+*.exe
+*.dll
+
+# Temporary files from the old project
+all_code*.txt
